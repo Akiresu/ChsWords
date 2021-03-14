@@ -24,12 +24,12 @@ Spaces and new lines can appear anywhere in the text even in the middle of a wor
 ## Step 2
 Run the program supplying the txt file as a argument.
 Excel file will be generated with the list.
-Each row includes followong columns:
+Each row includes following columns:
 Hanzi (Chinese word), Pinyin, Translation (left empty for user to populate), Percentage, Cumulative percentage 
 
 ## Parameters
 #### inputFileName
-Required parameter. Specify path adn file name for the txt file which has been populated by the values copy pasted from the original pdf file.
+Required parameter. Specify path and file name for the txt file which has been populated by the values copy pasted from the original pdf file.
 
 #### outputFileName
 Optional parameter. If no value has been supplied, the resulting file will be called *result.xlsx*
